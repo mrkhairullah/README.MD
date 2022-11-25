@@ -1,12 +1,12 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 <!-- LINKS -->
 [email]: mailto:mrkhairullah@proton.me
 [linkedin]: https://www.linkedin.com/in/muhammadrizkykhairullah/
 [instagram]: https://www.instagram.com/mrkhairullah/
 
-### Contact
+# Muhammad Rizky Khairullah
+Sedang fokus belajar segala hal yang berkaitan dengan software engineer dan pembuatan produk digital
 
-[<img alt="mrkhairullah | Email" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/protonmail.svg" />][Email] mrkhairullah@proton.me
-<br>
-[<img alt="mrkhairullah | Email" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/linkedin.svg" />][linkedin] Muhammad Rizky Khairullah
-<br>
-[<img alt="mrkhairullah | Email" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/instagram.svg" />][linkedin] @mrkhairullah
+Ayo terhubung dengan saya !!!
+<i class="fa-solid fa-bars"></i>
