@@ -1,13 +1,12 @@
-## ✨ Tentang saya
-Kamu bisa panggil saya **Rizky**, saya seorang mahasiswa dengan jurusan **Sistem Informasi** yang memiliki kertarikan tinggi pada dunia **Website Development dan UX Design**
+<!-- LINKS -->
+[email]: mailto:mrkhairullah@proton.me
+[linkedin]: https://www.linkedin.com/in/muhammadrizkykhairullah/
+[instagram]: https://www.instagram.com/mrkhairullah/
 
-## ⚡ Hubungi saya
-* [Instagram](https://www.instagram.com/mrkhairullah/)
-* [Linkedin](https://www.linkedin.com/in/muhammadrizkykhairullah/)
+### Contact
 
-## 📚 Saat ini sedang mempelajari :
-* HTML
-* CSS & Bootstrap - Tailwind
-* Javascript & Vue JS
-* Python & Django
-* PHP & Codeigniter (Kebutuhan Kuliah)
+[<img alt="mrkhairullah | Email" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/protonmail.svg" />][Email] mrkhairullah@proton.me
+<br>
+[<img alt="mrkhairullah | Email" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/linkedin.svg" />][linkedin] Muhammad Rizky Khairullah
+<br>
+[<img alt="mrkhairullah | Email" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/instagram.svg" />][linkedin] @mrkhairullah
