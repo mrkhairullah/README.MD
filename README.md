@@ -1,5 +1,7 @@
 # Hi 👋 I'm Muhammad Rizky Khairullah
-[![](https://visitcount.itsvg.in/api?id=mrkhairullah&icon=0&color=6)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mrkhairullah&label=Profile%20views&color=0e75b6&style=flat" alt="mrkhairullah" />
+</p>
 
 ## 💫 About Me
 🔭 I’m currently developing a team of web developers called [inthernals](https://github.com/Inthernals) & [Exthernals](https://github.com/Exthernals).<br>
