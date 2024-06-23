@@ -1,8 +1,6 @@
-# 🤖 Hi I'm Rizky
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrkhairullah) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mrkhairullah) 
-
+# Hi, I'm Muhammad Rizky Khairullah
 🚀 I'm currently developing a Web Dev Team called [Inthernals](https://github.com/Inthernals) & [Exthernals](https://github.com/Exthernals)<br>
-🌱 I'm currently learning TypeScript, React JS, React Native, and Express JS<br>
+🌱 I'm currently learning TypeScript, React JS, Next JS, and Express JS<br>
 🪄 I'm interested in collaborating on open source projects<br>
 💬 Very open to discuss about anything<br>
 📫 You can contact me through the contact information provided<br>
